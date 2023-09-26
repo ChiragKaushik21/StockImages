@@ -1,0 +1,16 @@
+{
+    "Filters": [
+        {
+            "title": "car"
+        },
+        {
+            "title": "dog"
+        },
+        {
+            "title": "cat"
+        },
+        {
+            "title": "plane"
+        }
+    ]
+}
